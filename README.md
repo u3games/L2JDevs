@@ -18,8 +18,6 @@ This page only gives very basic information, for the detailed information about 
 Links
 --------------
 
-- [Third-party licenses](dist/doc)
-
 - [Web Site](http://www.l2jdevs.org)
 
 - [Forums](http://www.l2jdevs.org/forum)
