@@ -21,3 +21,5 @@ Links
 - [Web Site](http://www.l2jdevs.org)
 
 - [Forums](http://www.l2jdevs.org/forum)
+
+- [Telegram](https://t.me/l2jdevs)
